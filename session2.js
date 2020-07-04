@@ -89,11 +89,7 @@ setTimeout(()=>{
 console.log("Print me after 5000 ms")
 },5000)
 
-//eventloop
-
-//Function Constructors 
-
-//es6 classes
+console.log("Who Prints first");
 
 })()
 
